@@ -1,0 +1,19 @@
+{
+  "name": "jochain",
+  "version": "1.0.0",
+  "description": "Really small helper class that allows for function chains to be written linearly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph14078/JoChain.git"
+  },
+  "author": "Joseph Judge",
+  "license": "WTFPLv2",
+  "bugs": {
+    "url": "https://github.com/Joseph14078/JoChain/issues"
+  },
+  "homepage": "https://github.com/Joseph14078/JoChain#readme"
+}
